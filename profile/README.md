@@ -2,13 +2,16 @@
 
 ## 1 Overview
 
-Jacqueline House is a project dedicated to the radical improvement of the psychedelic experience through novel drug combinations and cutting edge experience design. 
+Jacqueline House is a project dedicated to the radical improvement of the psychedelic experience through novel drug combinations and cutting-edge experience design. 
 
-The repositories of content and knowledge contained herein are given humbly as a gift to the world. 
+When we say "radical improvement" we mean it. The extent to which we believe our methods have revolutionized the psychedelic experience cannot be overstated.
+The experience that can be achieved using the technologies and methods described herein are profoundly superior to traditional psychedelic experiences. 
 
 <img src="JH-room1-2025.10.10.jpg" align="right" width="420"/>
 
-What follows is a comprehensive guide to our ways, and what we have discovered so far.  
+The repositories of content and knowledge contained herein are given humbly as a gift to the world. 
+
+What follows is a comprehensive guide to our methods, and what we have discovered so far.  
 
 1. [Overview](http://github.com/jacquelinehouse/melange)
 1. [Phiosophy](http://github.com/jacquelinehouse/melange)
