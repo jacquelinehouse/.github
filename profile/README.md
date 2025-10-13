@@ -3,7 +3,7 @@
 Jacqueline House is a project dedicated to the radical improvement of the psychedelic experience through novel drug combinations and cutting-edge experience design. 
 
 When we say "radical improvement" we mean it. The extent to which we believe our methods have revolutionized the psychedelic experience cannot be overstated.
-The experience that can be achieved using the technologies and methods described herein are profoundly superior to traditional psychedelic experiences. 
+The experience that can be achieved using the technologies and methods described here are profoundly superior to traditional psychedelic experiences. 
 
 <img src="JH-room1-2025.10.10.jpg" align="right" width="420"/>
 
