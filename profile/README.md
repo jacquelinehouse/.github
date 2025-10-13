@@ -1,7 +1,5 @@
 # Jacqueline House
 
-## 1 Overview
-
 Jacqueline House is a project dedicated to the radical improvement of the psychedelic experience through novel drug combinations and cutting-edge experience design. 
 
 When we say "radical improvement" we mean it. The extent to which we believe our methods have revolutionized the psychedelic experience cannot be overstated.
