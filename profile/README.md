@@ -12,7 +12,7 @@ The repositories of content and knowledge contained herein are given humbly as a
 What follows is a comprehensive guide to our methods, and what we have discovered so far.  
 
 1. [Overview](http://github.com/jacquelinehouse/melange)
-1. [Phiosophy](http://github.com/jacquelinehouse/melange)
+1. [Philosophy](http://github.com/jacquelinehouse/melange)
 1. [Melange](http://github.com/jacquelinehouse/melange)
 1. [Experience Design](http://github.com/jacquelinehouse/melange)
 1. [Psychedelic Assisted Psychoacoustic Medication (PAPAM)](http://github.com/jacquelinehouse/melange)
