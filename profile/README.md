@@ -2,11 +2,11 @@
 
 ## 1 Overview
 
-Welcome to Jacqueline House. Welcome to Jacqueline House. Welcome to Jacqueline House. Welcome to Jacqueline House. Welcome to Jacqueline House. Welcome to Jacqueline House. Welcome to Jacqueline House. 
+Jacqueline House is a project dedicated to the radical improvement of the psychedelic experience through novel drug combinations and cutting edge experience design. 
 
-Welcome to Jacqueline House. Welcome to Jacqueline House. Welcome to Jacqueline House. Welcome to Jacqueline House. Welcome to Jacqueline House. Welcome to Jacqueline House. Welcome to Jacqueline House. 
+The repositories of content and knowledge contained herein are given humbly as a gift to the world. 
 
-Welcome to Jacqueline House. 
+What follows is a comprehensive guide to our ways, and what we have discovered so far.  
 
 <img src="JH-room1-2025.10.10.jpg" align="right" width="420">
   
